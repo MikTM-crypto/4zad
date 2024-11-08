@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id resetuj
+id rzut1
+id rzut2
+id rzut3
+id rzut4
+id rzut5
+id rzutkoscmi
+id rzuty
+id textView
+id wynikgry
+id wyniki
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.DiceGame
+style Theme.DiceGame
+xml backup_rules
+xml data_extraction_rules
